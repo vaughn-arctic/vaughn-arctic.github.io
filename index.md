@@ -16,5 +16,6 @@ eel free to get in touch with me whether it be about computer science and resear
 
 
 # Education
-University of Central Florida, B.A. Political Science 2013
+University of Central Florida, B.A. Political Science 2013<br>
+
 University of Alaska Anchorage, B.S. Computer Science 2023
