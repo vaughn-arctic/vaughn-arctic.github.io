@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About me
-
+subtitle: Aspiring Computer Scientist, Military Veteran, & Rugged Outdoorsman
 ---
 
 Hello. Thanks for checking out my site. I am a current senior at the [University of Alaska Anchorage](https://www.uaa.alaska.edu/academics/college-of-engineering/index.cshtml) majoring in Computer Science. 
