@@ -15,7 +15,14 @@ eel free to get in touch with me whether it be about computer science and resear
 
 
 
-# Education
+## Education
 University of Central Florida, B.A. Political Science 2013<br>
 
 University of Alaska Anchorage, B.S. Computer Science 2023
+
+## Academic Involvment
+
+UAA Student Veterans Association: Vice President (2020-2022)
+Union of Students at University Alaska Anchorage: College of Engineering Delegate (2021-2023)
+UAA Academic Computing, Distance Learning, Instructional Technology, and eLearning Committee: Student Representative (2022-2023)
+
