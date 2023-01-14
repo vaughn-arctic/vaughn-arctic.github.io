@@ -22,7 +22,7 @@ University of Alaska Anchorage, B.S. Computer Science 2023
 
 ## Academic Involvment
 
-UAA Student Veterans Association: Vice President (2020-2022)
-Union of Students at University Alaska Anchorage: College of Engineering Delegate (2021-2023)
+UAA Student Veterans Association: Vice President (2020-2022)<br>
+Union of Students at University Alaska Anchorage: College of Engineering Delegate (2021-2023)<br>
 UAA Academic Computing, Distance Learning, Instructional Technology, and eLearning Committee: Student Representative (2022-2023)
 
