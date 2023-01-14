@@ -4,13 +4,13 @@ title: About me
 
 ---
 
-Hello. Thanks for checking out my site. I am a current senior at the [University of Alaska Anchorage](https://www.uaa.alaska.edu/academics/college-of-engineering/index.cshtml) majoring in Computer Science. 
+## Two things that sparked my interest in computing<br>
+### My time in the military
+Serving as a paratrooper in the US Army, my role was a Chemical, Bilogical, Radiological and Nuclear Specialist. Needless to say I didn't have very many real world oppurtunites to contribute my speciality, so I sought out ways to help my unit both at home and abroad. I've worn multiple hats such as armorer, fire marshall, saftey coordinator, air movement officer, training and planning manager and have even conducted multiple patrols in a hostile enviornment. 
 
-My technological interests include human-computer interaction and design methods that help to facilitate greater access to technology along social, cultural, and economic barriers. I also have a keen interest in the underlying neurological processes that effect how we as humans respond and react to external computing stimuli. I enjoy researching neural activity recorded by EEG that helps to decode cognative paradigms for HCI. 
-
-Having served 5 years in the US Army, I now live with my wife and 2 children in rural Alaska, where I enjoy taking part in every type of outdoor activity the 49th state has to offer from glacier climbing to big game hunting. 
+With each new skill I aquired, I had to familiarize myself with a new set of technology that accompanied it ranging from SIPR networks and Celluar Single Jamming Devices. 
 
 
-Feel free to get in touch with me whether it be about computer science and research ,transitioning from active duty service and student veteran issues, or my experiences and advice as an under-represeneted minority in the CS field, or any other questions you might have. 
+![Bagram](/assets/img/17577782_1416647815022628_2136501891_n.jpg)
 
 
