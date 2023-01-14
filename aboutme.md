@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello. Thanks for checking out my site. I am a current senior at the [University of Alaska Anchorage](https://www.uaa.alaska.edu/academics/college-of-engineering/index.cshtml) majoring in Computer Science. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My technological interests include human-computer interaction and design methods that help to facilitate greater access to technology along social, cultural, and economic barriers. I also have a keen interest in the underlying neurological processes that effect how we as humans respond and react to external computing stimuli. I enjoy researching neural activity recorded by EEG that helps to decode cognative paradigms for HCI. 
 
-What else do you need?
+Having served 5 years in the US Army, I now live with my wife and 2 children in rural Alaska, where I enjoy taking part in every type of outdoor activity the 49th state has to offer from glacier climbing to big game hunting. 
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to get in touch with me whether it be about computer science and research ,transitioning from active duty service and student veteran issues, or my experiences and advice as an under-represeneted minority in the CS field, or any other questions you might have. 
+
+
