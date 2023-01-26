@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Hello
 subtitle: Aspiring Computer Scientist, Military Veteran, & Rugged Outdoorsman
 ---
 
