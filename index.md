@@ -1,6 +1,5 @@
 ---
 layout: home
-title: About me
 subtitle: Aspiring Computer Scientist, Military Veteran, & Rugged Outdoorsman
 ---
 
