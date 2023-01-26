@@ -11,7 +11,7 @@ My technological interests include human-computer interaction and design methods
 Having served 5 years in the US Army, I now live with my wife and 2 children in rural Alaska, where I enjoy taking part in every type of outdoor activity the 49th state has to offer from glacier climbing to big game hunting. 
 
 
-eel free to get in touch with me whether it be about computer science and research ,transitioning from active duty service and student veteran issues, or my experiences and advice as an under-represeneted minority in the CS field, or any other questions you might have. 
+Feel free to get in touch with me whether it be about computer science and research ,transitioning from active duty service and student veteran issues, my experiences and advice as an under-represeneted minority in the CS field, or any other questions you might have. 
 
 
 
