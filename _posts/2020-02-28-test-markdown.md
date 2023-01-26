@@ -7,4 +7,6 @@ tags: [test]
 comments: true
 ---
 
-<embed src="vaughn-arctic.github.io/490_FinalWriteUp_JAVAUGHN_CONFRENCEFORMAT.docx.pdf" type="application/pdf">
+Test.... 
+Testing how to import a PDF into Markdown
+
